@@ -1,0 +1,11 @@
+{
+  "name": "activity-5.5.1-classes-of-chance",
+  "version": "1.0.0",
+  "description": "Create a Casino class that allows users to bet on a game of chance",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
